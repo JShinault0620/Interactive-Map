@@ -1,0 +1,15 @@
+#map {
+    position: fixed;
+    height: 98vh;
+    width: 99vw;
+}
+#loc {
+    position: fixed;
+    right: 1px;
+    top: 1px;
+    background-color: white;
+    display: flex;
+}
+#selection {
+    margin-left: 10px;
+}
